@@ -43,6 +43,6 @@ frida -U -f com.example.targetapp -l info.js --no-pause
 
 ### ScreenShots
 
+![Screenshot from 2024-08-03 00-33-39](https://github.com/user-attachments/assets/e8a28021-2cc6-462b-91eb-8a7d065a46f2)
 
-/home/pratham/Pictures/Screenshots/Screenshot from 2024-08-03 00-33-39.png
 
