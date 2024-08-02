@@ -26,13 +26,7 @@ This project demonstrates how to perform native hooking on Android applications 
 
 2. Connect your Android device or start your emulator.
 
-3. Forward the necessary ports for Frida:
-    ```sh
-    adb forward tcp:27042 tcp:27042
-    adb forward tcp:27043 tcp:27043
-    ```
-
-4. Start the Frida server on your Android device:
+3. Start the Frida server on your Android device:
     ```sh
     adb shell "/data/local/tmp/frida-server &"
     ```
