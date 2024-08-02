@@ -39,4 +39,10 @@ The `info.js` script logs all loaded native libraries and their JNI functions:
 
 ```sh
 frida -U -f com.example.targetapp -l info.js --no-pause
+```
+
+### ScreenShots
+
+
+/home/pratham/Pictures/Screenshots/Screenshot from 2024-08-03 00-33-39.png
 
